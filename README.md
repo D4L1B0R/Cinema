@@ -1,60 +1,57 @@
-🎬 Cinema Reservation System (CLI App)
-Course: Introduction to Programming
-Language: Python
-Semester: 1st
-Academic Year: 2023/2024
-Project Type: Console-based application
+# 🎬 Cinema Reservation System (CLI App)
 
-📌 Project Overview
-A terminal-based cinema reservation system that allows users to explore movies, reserve seats, and manage ticket data. The application supports multiple user roles with different permissions and functionalities, using a role-based console menu.
+**Course:** Introduction to Programming  
+**Language:** Python  
+**Semester:** 1st  
+**Academic Year:** 2023/2024  
+**Project Type:** Console-based application
 
-👥 User Roles
-Unregistered Customer
+---
 
-Can view movie and projection info via search
+## 📌 Overview
 
-Cannot reserve tickets directly; must register or call/visit in person
+This is a terminal-based cinema reservation system built in Python. The system supports multiple user roles (Customer, Seller, Manager) and allows for complete interaction via a role-based console menu.
 
-Registered Customer
+Users can search movies, reserve seats, view available projections, and manage their accounts — all through a structured and interactive terminal interface.
 
-Can search and reserve tickets for available projection times
+---
 
-Can cancel reservations and view personal bookings
+## 👥 User Roles & Permissions
 
-Must arrive at least 30 minutes before the show to complete purchase in person
+### 🧑‍💻 Unregistered Customer
+- View movies and projection schedules
+- Can only reserve tickets through a seller (by phone or in person)
 
-Seller
+### 🧑 Registered Customer
+- Log in and reserve/cancel tickets
+- View current reservations
+- Must pay for the ticket at least 30 minutes before the projection by visiting the cinema
 
-Can reserve and sell tickets to registered or unregistered customers
+### 💼 Seller
+- Reserve and sell tickets to all customers
+- Edit or cancel existing reservations
 
-Can cancel and manage reservations
+### 🧑‍💼 Manager
+- Register new sellers and managers
+- Access internal system reports
 
-Manager
+---
 
-Registers new sellers and managers
+## 🔍 Features
 
-Has access to internal reports and system overview
+- 🔐 User registration, login, logout
+- 🎞️ Movie and projection search
+- 🎟️ Ticket reservation & cancellation
+- 💺 Seat availability lookup
+- 🧾 Role-based menu system
+- 💾 File-based persistence using Python `pickle`
+- ✅ Input validation and user feedback
 
-🔍 Core Features
-User registration, login, logout, profile editing
+---
 
-Search movies and projection schedules
+## 🛠 Technologies Used
 
-Seat availability viewer with selection
-
-Reservation creation and cancellation
-
-Role-based console interface (menu per role)
-
-File-based data persistence using Python’s pickle
-
-🧠 Technical Highlights
-Language: Python
-
-Serialization: Used pickle for storing user and system data as objects
-
-File Handling: Input/output through .txt and .pkl files
-
-Menu System: Clean CLI interface for each user role
-
-Validation: Input validation and role-based access control
+- **Language:** Python
+- **Persistence:** `pickle` module for object serialization
+- **Storage:** `.pkl` and `.txt` files
+- **Interface:** Text-based (Console UI)
