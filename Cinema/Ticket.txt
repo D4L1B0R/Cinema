@@ -1,0 +1,50 @@
+Michael Johnson|1111AD|3C|13.01.2024.|reserved
+Emily Brown|1112AH|4D|14.01.2024.|reserved
+David Wilson|1113AN|5E|15.01.2024.|bought
+username2|1112AJ|1B|11.01.2024.|reserved
+Matthew Martinez|1112AI|2C|12.01.2024.|reserved
+Alice Smith|1113AP|3D|13.01.2024.|bought
+username6|1111AE|4E|14.01.2024.|reserved
+Michael Johnson|1114AU|5A|15.01.2024.|bought
+Christopher Moore|1112AK|1C|11.01.2024.|reserved
+Elizabeth Taylor|1111AF|2E|12.01.2024.|reserved
+username8|1114AR|3A|13.01.2024.|reserved
+Olivia Martin|1114AS|4B|14.01.2024.|reserved
+James Thompson|1111AG|5C|15.01.2024.|bought
+Lauren White|1112AL|1D|11.01.2024.|reserved
+Benjamin Harris|1113AQ|2A|12.01.2024.|bought
+David Wilson|1112AM|3E|13.01.2024.|reserved
+Ryan Nelson|1111AE|4B|14.01.2024.|reserved
+Hannah King|1114AT|5D|15.01.2024.|bought
+John Doe|1121BP|1A|11.01.2024.|reserved
+Alice Smith|1121BQ|2B|12.01.2024.|bought
+Michael Johnson|1121BT|3C|13.01.2024.|reserved
+Emily Brown|1120BM|4D|14.01.2024.|reserved
+David Wilson|1123BZ|1B|15.01.2024.|bought
+John Doe|1123CA|2C|16.01.2024.|reserved
+Alice Smith|1123CA|3D|17.01.2024.|reserved
+Michael Johnson|1124CF|4A|18.01.2024.|bought
+username3|1130DE|1C|19.01.2024.|reserved
+John Doe|1130DD|2D|20.01.2024.|reserved
+Alice Smith|1113AP|3A|21.01.2024.|bought
+Michael Johnson|1113AQ|4B|22.01.2024.|reserved
+David Wilson|1116BA|1D|23.01.2024.|reserved
+John Doe|1115AX|2A|24.01.2024.|bought
+Alice Smith|1116BA|3B|25.01.2024.|reserved
+Michael Johnson|1117BD|4C|26.01.2024.|reserved
+Emily Brown|1117BD|1A|27.01.2024.|bought
+David Wilson|1117BD|2B|28.01.2024.|reserved
+John Doe|1117BD|3C|01.01.2024.|reserved
+Alice Smith|1115AY|4D|02.01.2024.|bought
+Michael Johnson|1119BJ|1B|03.01.2024.|reserved
+Emily Brown|1119BK|2C|04.01.2024.|reserved
+David Wilson|1118BH|3D|05.01.2024.|bought
+John Doe|1120BO|4A|06.01.2024.|reserved
+Alice Smith|1121BP|1C|07.01.2024.|reserved
+Michael Johnson|1121BR|2D|08.01.2024.|bought
+Emily Brown|1124CG|3A|09.01.2024.|reserved
+David Wilson|1125CK|4B|10.01.2024.|reserved
+John Doe|1126CL|1D|11.01.2024.|bought
+Alice Smith|1126CN|2A|12.01.2024.|reserved
+username10|1122BY|3B|13.01.2024.|reserved
+John Doe|1111AC|2C|11.01.2024.|bought

@@ -1,0 +1,20 @@
+1111|A1|14:00|16:16|Monday, Wednesday, Friday|The Matrix|400.0
+1112|A1|11:30|13:32|Wednesday, Friday, Sunday|Amélie|450.0
+1113|A1|15:00|16:56|Thursday, Saturday|Life is Beautiful|420.0
+1114|A1|18:30|19:51|Tuesday, Saturday, Sunday|Run Lola Run|410.0
+1115|A1|09:00|10:30|Sunday|City of God|430.0
+1116|A1|11:30|13:09|Tuesday, Thursday|Grand Budapest Hotel|440.0
+1117|A1|09:00|10:58|Saturday, Sunday|Pan's Labyrinth|415.0
+1118|A1|18:00|19:55|Sunday|The Hunt|425.0
+1119|A1|09:00|10:28|Friday|Rashomon|410.0
+1120|A1|11:45|14:02|Saturday, Sunday|Lives of Others|435.0
+1121|A2|17:00|18:50|Wednesday, Friday, Sunday|Yojimbo|410.0
+1122|A2|17:30|19:32|Sunday, Monday|Amélie|460.0
+1123|A2|09:00|10:56|Thursday, Saturday|Life is Beautiful|430.0
+1124|A2|18:00|19:56|Friday, Saturday|A Man Called Ove|420.0
+1125|A2|09:00|10:55|Tuesday, Sunday|The Wave|440.0
+1126|A2|11:45|13:24|Thursday, Saturday|Grand Budapest Hotel|450.0
+1127|A2|15:00|16:58|Monday, Wednesday|Pan's Labyrinth|425.0
+1128|A2|18:00|19:55|Sunday, Tuesday|The Hunt|435.0
+1129|A2|09:00|10:28|Friday, Saturday|Rashomon|410.0
+1130|A2|11:45|14:02|Saturday, Sunday|The Lives of Others|445.0

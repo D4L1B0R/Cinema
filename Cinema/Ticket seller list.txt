@@ -1,0 +1,18 @@
+David Wilson|1113AN|5E|13.01.2024.|username5
+Alice Smith|1113AP|3D|13.01.2024.|username7
+Michael Johnson|1114AU|5A|15.01.2024.|username9
+James Thompson|1111AG|5C|15.01.2024.|username1
+Benjamin Harris|1113AQ|2A|13.01.2024.|username5
+David Wilson|1112AM|3E|13.01.2024.|username7
+Hannah King|1114AT|5D|15.01.2024.|username9
+Alice Smith|1121BQ|2B|12.01.2024.|username1
+David Wilson|1123BZ|1B|15.01.2024.|username5
+Michael Johnson|1124CF|4A|18.01.2024.|username7
+Alice Smith|1113AP|3A|21.01.2024.|username9
+John Doe|1115AX|2A|24.01.2024.|username1
+Emily Brown|1117BD|1A|27.01.2024.|username5
+David Wilson|1115AY|3D|05.01.2024.|username7
+Alice Smith|1118BH|4D|02.01.2024.|username9
+Michael Johnson|1121BR|2D|08.01.2024.|username1
+username2|1126CL|4C|14.01.2024.|username5
+John Doe|1111AC|2C|11.01.2024.|username5

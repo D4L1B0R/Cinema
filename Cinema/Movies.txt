@@ -1,0 +1,18 @@
+1|The Matrix|Sci-Fi|136|The Wachowskis|Keanu Reeves, Laurence Fishburne|USA|1999
+2|Amélie|Romance|122|Jean-Pierre Jeunet|Audrey Tautou, Mathieu Kassovitz|France|2001
+3|Life is Beautiful|Comedy|116|Roberto Benigni|Roberto Benigni, Nicoletta Braschi|Italy|1997
+4|Run Lola Run|Thriller|81|Tom Tykwer|Franka Potente, Moritz Bleibtreu|Germany|1998
+5|City of God|Crime|130|Kátia Lund|Alexandre Rodrigues, Leandro Firmino|Brazil|2002
+6|The Grand Budapest Hotel|Comedy|99|Wes Anderson|Ralph Fiennes, Tony Revolori|Germany|2014
+7|Pan's Labyrinth|Fantasy|118|Guillermo del Toro|Ivana Baquero, Sergi López|Spain|2006
+8|The Hunt|Drama|115|Thomas Vinterberg|Mads Mikkelsen, Thomas Bo Larsen|Denmark|2012
+9|Rashomon|Crime|88|Akira Kurosawa|Toshiro Mifune, Machiko Kyô|Japan|1950
+10|The Lives of Others|Drama|137|Florian Henckel|Ulrich Mühe, Martina Gedeck|Germany|2006
+11|Yojimbo|Action|110|Akira Kurosawa|Toshiro Mifune, Eijiro Tono|Japan|1961
+12|Amour|Drama|127|Michael Haneke|Jean-Louis Trintignant, Emmanuelle Riva|Austria|2012
+13|Cinema Paradiso|Drama|155|Giuseppe Tornatore|Philippe Noiret, Enzo Cannavale|Italy|1988
+14|The Red Shoes|Drama|133|Michael Powell|Anton Walbrook, Marius Goring|UK|1948
+15|Dangal|Biography|161|Nitesh Tiwari|Aamir Khan, Sakshi Tanwar|India|2016
+16|The Great Beauty|Drama|141|Paolo Sorrentino|Toni Servillo, Carlo Verdone|Italy|2013
+17|A Man Called Ove|Comedy|116|Hannes Holm|Rolf Lassgård, Bahar Pars|Sweden|2015
+18|The Wave|Action|115|Roar Uthaug|Kristoffer Joner, Ane Dahl Torp|Norway|2015

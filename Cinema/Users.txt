@@ -1,0 +1,11 @@
+username3|password3|Alex|Johnson|user
+username4|password4|Emily|Davis|user
+username5|password5|Robert|Williams|seller
+username6|password6|Sarah|Miller|user
+username7|password7|Michael|Brown|seller
+username8|password8|Olivia|Taylor|user
+username9|password9|Ethan|Wilson|seller
+username10|password10|Ava|Anderson|user
+dalenik|dale|Dalibor|Nikolić|manager
+username1|petko123|Petar|Petrović|seller
+username2|zmaj123|Jovan|Jovanović|user
